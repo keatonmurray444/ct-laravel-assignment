@@ -15,6 +15,15 @@ body {
   padding: 12px;
 }
 
+.btn-secondary {
+  border: 0;
+  padding: 12px;
+}
+
+.bg-primary {
+  background-color: var(--primaryColor) !important;
+}
+
 .text-primary {
   color: var(--primaryColor) !important;
 }
